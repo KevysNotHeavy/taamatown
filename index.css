@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+}
+
+.mainLogo {
+  width: 50em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
