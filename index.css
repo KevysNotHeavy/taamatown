@@ -3,8 +3,16 @@ body {
 }
 
 .mainLogo {
-  width: 50em;
+  width: 25%;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+p {
+  text-wrap: balance;
+  text-align: center;
+  color: white;
+  font-size: 2em;
+  margin: 1rem;
 }
