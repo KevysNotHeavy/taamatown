@@ -26,7 +26,7 @@ p {
 .Menu {
   display: flex;
   background-color: #152462;
-  padding: 1.5rem;
+  padding: 25px;
   gap: 1rem;
   justify-content: center;
   border-radius: 1.5rem;
