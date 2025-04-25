@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  margin-top: 10rem;
 }
 
 .mainLogo {
@@ -25,11 +26,16 @@ p {
 
 .Menu {
   display: flex;
-  background-color: #152462;
-  padding: 25px;
+  position: fixed;
+  background-color: #1d5034;
+  padding: 1.5rem;
   gap: 1rem;
+  border-radius: 3rem;
   justify-content: center;
-  border-radius: 1.5rem;
+
+  left: 50%;
+  top: 1%;
+  transform: translateX(-50%);
 }
 
 .Menu a {
