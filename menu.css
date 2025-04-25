@@ -1,0 +1,23 @@
+.Menu {
+    display: flex;
+    position: fixed;
+    background-color: #1d5034;
+    padding: 1.5rem;
+    gap: 1rem;
+    border-radius: 3rem;
+    justify-content: center;
+  
+    left: 50%;
+    top: 1rem;
+    transform: translateX(-50%);
+  }
+  
+  .Menu a {
+    padding: 1rem 3rem;
+    border-radius: 2rem;
+    border: .15rem solid #FFFFFF;
+    background-color: black;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+  }
