@@ -25,6 +25,9 @@
 
 @media (max-width: 1000px) {
     .Menu a {
-        font-size: 2rem;
+            font-size: 2rem;
+        }
+    .Menu {
+        top: 2rem;
     }
 }
